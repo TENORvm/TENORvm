@@ -1,9 +1,6 @@
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=4000&pause=1000&color=C0392B&center=true&vCenter=true&width=700&height=100&lines=Ruslan+Pisarenko;Game+Designer+%26+Analyst" alt="Header" />
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=Game+Design+Analyst;Horror+%26+Narrative+Systems+Researcher;Studying+what+makes+games+unforgettable;Open+to+work+at+international+studios" alt="Typing SVG" />
-
 </div>
 
 ---
@@ -26,8 +23,8 @@ Long-term goal: working at an international game studio. Destination — **Japan
 
 | Project | Type | Status |
 |:--------|:-----|:------:|
-| [**Cry of Fear — Design Study**](https://www.notion.so/Cry-of-Fear-Game-Design-2cf335c808c880588d94f10d9cf9f52b) | 35-page deep analysis | ✅ Published |
-| Amnesia: The Bunker | Design study | 🔄 Playing now |
+| [**Cry of Fear — Design Study**](https://amused-shoe-a79.notion.site/Cry-of-Fear-Game-Design-2cf335c808c880588d94f10d9cf9f52b) | 35-page deep analysis | ✅ Published |
+| [**Amnesia: The Bunker — Design Study**](https://amused-shoe-a79.notion.site/Amnesia-The-Bunker-Game-Design-331335c808c880c497e4fc46a8e07da2?pvs=74) | Deep analysis | ✅ Published |
 | Dead Space series | Design study | 📋 Planned |
 | Silent Hill series | Design study | 📋 Planned |
 | Resident Evil series | Design study | 📋 Planned |
@@ -55,10 +52,6 @@ Long-term goal: working at an international game studio. Destination — **Japan
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=TENORvm&show_icons=true&theme=dark&title_color=c0392b&icon_color=c0392b&border_color=c0392b&bg_color=0a0a0c&text_color=e8e8f0" />
-
-<br>
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=TENORvm&theme=dark&background=0a0a0c&border=c0392b&ring=c0392b&fire=c0392b&currStreakLabel=c0392b" />
 
 </div>
@@ -68,9 +61,8 @@ Long-term goal: working at an international game studio. Destination — **Japan
 <div align="center">
 
 ### 🎯 Currently
-
 ```
-📖  Playing and analyzing — Amnesia: The Bunker
+📖  Analyzing — Dead Space series
 🔍  Building a horror game design study pipeline
 🌍  Open to work at international game studios
 🗾  Long-term destination — Japan
@@ -84,8 +76,9 @@ Long-term goal: working at an international game studio. Destination — **Japan
 
 ### 📬 Contact
 
-<a href="https://tenorvm.github.io"><img src="https://img.shields.io/badge/Portfolio-tenorvm.github.io-c0392b?style=for-the-badge&logo=github" /></a>
-<a href="https://www.notion.so/Cry-of-Fear-Game-Design-2cf335c808c880588d94f10d9cf9f52b"><img src="https://img.shields.io/badge/Notion-Design_Study-000000?style=for-the-badge&logo=notion" /></a>
+<a href="https://tenorvm.github.io/Portfolio/#projects"><img src="https://img.shields.io/badge/Portfolio-Projects-c0392b?style=for-the-badge&logo=github" /></a>
+<a href="https://tenorvm.github.io"><img src="https://img.shields.io/badge/GitHub_Page-tenorvm.github.io-555555?style=for-the-badge&logo=github" /></a>
+<a href="https://amused-shoe-a79.notion.site/Cry-of-Fear-Game-Design-2cf335c808c880588d94f10d9cf9f52b"><img src="https://img.shields.io/badge/Notion-Design_Studies-000000?style=for-the-badge&logo=notion" /></a>
 <a href="https://t.me/EZZOLIM"><img src="https://img.shields.io/badge/Telegram-EZZOLIM-2CA5E0?style=for-the-badge&logo=telegram" /></a>
 <a href="mailto:mixfin434@gmail.com"><img src="https://img.shields.io/badge/Gmail-mixfin434-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
